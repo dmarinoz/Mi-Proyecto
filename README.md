@@ -10,3 +10,4 @@ Este es un proyecto de prueba de uso de Github.
 ## Autores ✒️
 
 * **Daniel Mariño** - *Trabajo Inicial* - [dmarinoz](https://github.com/dmarinoz)
+* ** Alvaro Lomas ** -  * Contribucion * - [alomas@est.ups.edu.ec] (https://github.com/AlvaroLomas)
